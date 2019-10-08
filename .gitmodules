@@ -7,3 +7,9 @@
 [submodule "homeworks/hw2"]
 	path = homeworks/hw2
 	url = git@github.com:jhu-advdatasci-fall-2019/2019-711-hw2-ebridge2.git
+[submodule "homeworks/hw3"]
+	path = homeworks/hw3
+	url = git@github.com:jhu-advdatasci-fall-2019/2019-711-hw3-ebridge2.git
+[submodule "homeworks/hw4"]
+	path = homeworks/hw4
+	url = git@github.com:jhu-advdatasci-fall-2019/2019-711-hw4-ebridge2.git
