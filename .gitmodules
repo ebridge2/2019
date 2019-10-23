@@ -13,3 +13,6 @@
 [submodule "homeworks/hw4"]
 	path = homeworks/hw4
 	url = git@github.com:jhu-advdatasci-fall-2019/2019-711-hw4-ebridge2.git
+[submodule "homeworks/hw5"]
+	path = homeworks/hw5
+	url = git@github.com:jhu-advdatasci-fall-2019/2019-711-hw5-ebridge2.git
