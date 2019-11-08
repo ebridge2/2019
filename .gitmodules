@@ -19,3 +19,6 @@
 [submodule "homeworks/final_proj"]
 	path = homeworks/term_1/final_proj
 	url = git@github.com:ebridge2/140.721.final_proj.git
+[submodule "homeworks/term_2/hw1"]
+	path = homeworks/term_2/hw1
+	url = git@github.com:jhu-advdatasci-fall-2019/2019-712-hw1-ebridge2.git
