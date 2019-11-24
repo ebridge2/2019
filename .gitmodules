@@ -22,3 +22,6 @@
 [submodule "homeworks/term_2/hw1"]
 	path = homeworks/term_2/hw1
 	url = git@github.com:jhu-advdatasci-fall-2019/2019-712-hw1-ebridge2.git
+[submodule "homeworks/term_2/hw2"]
+	path = homeworks/term_2/hw2
+	url = git@github.com:jhu-advdatasci-fall-2019/2019-712-hw2-ebridge2.git
